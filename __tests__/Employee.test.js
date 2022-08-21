@@ -1,4 +1,4 @@
-const Employee = require("../lib/Employee");
+const Employee = require("../lib/Employee.js");
 
 describe("Employee", () => {
   it("Can create a new Employee", () => {
@@ -49,7 +49,7 @@ describe("Employee", () => {
   });
 
   describe("getRole", () => {
-    it("getRole() should return \"Employee\"", () => {
+    it("getRole() should return Employee", () => {
       const testValue = "Employee";
       const employee = new Employee("Alice", 1, "test@test.com");
       expect(employee.getRole()).toBe(testValue);
