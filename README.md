@@ -50,7 +50,7 @@ Run `npm test` in the command line to run the test suite.
 ## Screenshot of generated HTML
 
 ![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./Assets/my-team-screenshot.png)
-[Or link to generated Team Profile HTML](https:// TODO
+[Or link to generated Team Profile HTML](https://github.com/iamjoyfulgirl/team-profile-generator/blob/main/dist/team.html)
 
 ## Video Walkthrough
 
