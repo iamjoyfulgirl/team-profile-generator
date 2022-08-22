@@ -50,12 +50,13 @@ Run `npm test` in the command line to run the test suite.
 ## Screenshot of generated HTML
 
 ![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./Assets/my-team-screenshot.png)
+[Or link to generated Team Profile HTML](https:// TODO
 
 ## Video Walkthrough
 
-TODO
+![Video Walkthrough](./Assets/my-team.gif)
 
-[Or view the Screencastify walkthrough](https:// TODO
+[Or view the Screencastify walkthrough](https://drive.google.com/file/d/1h-ZpU24b1W-lstnevfs9oZ04THUlVjsz/view)
 
 ## License
 
@@ -85,4 +86,4 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 
-Team Profile Generator - Copyright 2022 Sherri Knight
+### Team Profile Generator - Copyright 2022 Sherri Knight
